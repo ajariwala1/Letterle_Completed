@@ -2,8 +2,6 @@
 //  SceneDelegate.swift
 //  Letterle_Completed
 //
-//  Created by Abhishek Jariwala on 1/13/23.
-//
 
 import UIKit
 
